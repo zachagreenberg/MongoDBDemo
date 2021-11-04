@@ -1,0 +1,10482 @@
+[
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea133"
+    },
+    "rank": "1",
+    "title": "Spirited Away",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.6,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino",
+      "Rumi Hiiragi"
+    ],
+    "gross": 10060000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea134"
+    },
+    "rank": "2",
+    "title": "The Lion King",
+    "year": "1994",
+    "rating": "G",
+    "runtime": 88,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl",
+      "Whoopi Goldberg"
+    ],
+    "gross": 422780000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea135"
+    },
+    "rank": "3",
+    "title": "Grave of the Fireflies",
+    "year": "1988",
+    "rating": "Not Rated",
+    "runtime": 89,
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi",
+      "Yoshiko Shinohara"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea136"
+    },
+    "rank": "4",
+    "title": "Your Name.",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 106,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "cast": [
+      "Mone Kamishiraishi",
+      "Aoi Y"
+    ],
+    "gross": 5020000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea137"
+    },
+    "rank": "5",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "gross": 190240000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea138"
+    },
+    "rank": "6",
+    "title": "Coco",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 105,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael Garc",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "gross": 209730000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea139"
+    },
+    "rank": "7",
+    "title": "WALL\u00b7E",
+    "year": "2008",
+    "rating": "G",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "gross": 223810000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea13a"
+    },
+    "rank": "8",
+    "title": "Princess Mononoke",
+    "year": "1997",
+    "rating": "PG-13",
+    "runtime": 134,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Yuriko Ishida",
+      "Billy Crudup"
+    ],
+    "gross": 2380000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea13b"
+    },
+    "rank": "9",
+    "title": "Demon Slayer: Mugen Train",
+    "year": "2020",
+    "rating": "R",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.3,
+    "directors": [
+      "Haruo Sotozaki"
+    ],
+    "cast": [
+      "Natsuki Hanae",
+      "Akari Kit",
+      "Yoshitsugu Matsuoka",
+      "Hiro Shimono"
+    ],
+    "gross": 47700000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea13c"
+    },
+    "rank": "10",
+    "title": "Toy Story",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.3,
+    "directors": [
+      "John Lasseter"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney"
+    ],
+    "gross": 191800000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea13d"
+    },
+    "rank": "11",
+    "title": "A Silent Voice: The Movie",
+    "year": "2016",
+    "rating": "Not Rated",
+    "runtime": 130,
+    "genre": [
+      "Animation",
+      "Drama"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Naoko Yamada"
+    ],
+    "cast": [
+      "Miyu Irino",
+      "Saori Hayami",
+      "Aoi Y"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea13e"
+    },
+    "rank": "12",
+    "title": "Klaus",
+    "year": "2019",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Sergio Pablos",
+      "Carlos Mart"
+    ],
+    "cast": [
+      "Jason Schwartzman",
+      "Rashida Jones",
+      "Will Sasso"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea13f"
+    },
+    "rank": "13",
+    "title": "Up",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "cast": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "John Ratzenberger",
+      "Christopher Plummer"
+    ],
+    "gross": 293000000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea140"
+    },
+    "rank": "14",
+    "title": "Toy Story 3",
+    "year": "2010",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Ned Beatty"
+    ],
+    "gross": 415000000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea141"
+    },
+    "rank": "15",
+    "title": "Howl's Moving Castle",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 119,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Chieko Baish",
+      "Takuya Kimura",
+      "Tatsuya Gash",
+      "Akihiro Miwa"
+    ],
+    "gross": 4710000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea142"
+    },
+    "rank": "16",
+    "title": "My Neighbor Totoro",
+    "year": "1988",
+    "rating": "G",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Shigesato Itoi"
+    ],
+    "gross": 1110000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea143"
+    },
+    "rank": "17",
+    "title": "Soul",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Kemp Powers"
+    ],
+    "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea144"
+    },
+    "rank": "18",
+    "title": "Wolf Children",
+    "year": "2012",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Mamoru Hosoda"
+    ],
+    "cast": [
+      "Aoi Miyazaki",
+      "Takao Osawa",
+      "Haru Kuroki",
+      "Yukito Nishii"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea145"
+    },
+    "rank": "19",
+    "title": "Inside Out",
+    "year": "2015",
+    "rating": "PG",
+    "runtime": 95,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Ronnie Del",
+      "Carmen\n"
+    ],
+    "cast": [
+      "Amy Poehler",
+      "Bill Hader",
+      "Lewis Black",
+      "Mindy Kaling"
+    ],
+    "gross": 356460000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea146"
+    },
+    "rank": "20",
+    "title": "Song of the Sea",
+    "year": "2014",
+    "rating": "PG",
+    "runtime": 93,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Tomm Moore"
+    ],
+    "cast": [
+      "David Rawle",
+      "Brendan Gleeson",
+      "Lisa Hannigan",
+      "Fionnula Flanagan"
+    ],
+    "gross": 860000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea147"
+    },
+    "rank": "21",
+    "title": "Mary and Max",
+    "year": "2009",
+    "rating": "Not Rated",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Adam Elliot"
+    ],
+    "cast": [
+      "Toni Collette",
+      "Philip Seymour",
+      "Eric Bana",
+      "Barry Humphries"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea148"
+    },
+    "rank": "22",
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "rating": "PG",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Christopher Mintz",
+      "Craig Ferguson"
+    ],
+    "gross": 217580000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea149"
+    },
+    "rank": "23",
+    "title": "Finding Nemo",
+    "year": "2003",
+    "rating": "G",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Albert Brooks",
+      "Ellen De",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "gross": 380840000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea14a"
+    },
+    "rank": "24",
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "David Silverman",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Billy Crystal",
+      "John Goodman",
+      "Mary Gibbs",
+      "Steve Buscemi"
+    ],
+    "gross": 289920000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea14b"
+    },
+    "rank": "25",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "year": "1997",
+    "rating": "TV-MA",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hideaki Anno",
+      "Kazuya Tsurumaki"
+    ],
+    "cast": [
+      "Megumi Ogata",
+      "Megumi Hayashibara",
+      "Kotono Mitsuishi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea14c"
+    },
+    "rank": "26",
+    "title": "Nausica\u00e4 of the Valley of the Wind",
+    "year": "1984",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Ky"
+    ],
+    "gross": 500000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea14d"
+    },
+    "rank": "27",
+    "title": "Wolfwalkers",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Tomm Moore",
+      "Ross Stewart"
+    ],
+    "cast": [
+      "Honor Kneafsey",
+      "Eva Whittaker",
+      "Sean Bean",
+      "Simon Mc"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea14e"
+    },
+    "rank": "28",
+    "title": "Zootopia",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 108,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Byron Howard",
+      "Rich Moore",
+      "Jared Bush"
+    ],
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba",
+      "Jenny Slate"
+    ],
+    "gross": 341270000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea14f"
+    },
+    "rank": "29",
+    "title": "The Tale of The Princess Kaguya",
+    "year": "2013",
+    "rating": "PG",
+    "runtime": 137,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Grace Moretz",
+      "James Caan",
+      "Mary Steenburgen",
+      "James Marsden"
+    ],
+    "gross": 1510000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea150"
+    },
+    "rank": "30",
+    "title": "Persepolis",
+    "year": "2007",
+    "rating": "PG-13",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Biography",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Vincent Paronnaud",
+      "Marjane Satrapi"
+    ],
+    "cast": [
+      "Chiara Mastroianni",
+      "Catherine Deneuve",
+      "Gena Rowlands",
+      "Danielle Darrieux"
+    ],
+    "gross": 4450000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea151"
+    },
+    "rank": "31",
+    "title": "Ratatouille",
+    "year": "2007",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "cast": [
+      "Brad Garrett",
+      "Lou Romano",
+      "Patton Oswalt",
+      "Ian Holm"
+    ],
+    "gross": 206450000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea152"
+    },
+    "rank": "32",
+    "title": "The Incredibles",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Craig T",
+      "Samuel L",
+      "Holly Hunter",
+      "Jason Lee"
+    ],
+    "gross": 261440000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea153"
+    },
+    "rank": "33",
+    "title": "Perfect Blue",
+    "year": "1997",
+    "rating": "R",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Crime",
+      "Mystery"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Junko Iwao",
+      "Rica Matsumoto",
+      "Shinpachi Tsuji"
+    ],
+    "gross": 780000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea154"
+    },
+    "rank": "34",
+    "title": "The Iron Giant",
+    "year": "1999",
+    "rating": "PG",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Eli Marienthal",
+      "Harry Connick",
+      "Jennifer Aniston",
+      "Vin Diesel"
+    ],
+    "gross": 23160000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea155"
+    },
+    "rank": "35",
+    "title": "Ghost in the Shell",
+    "year": "1995",
+    "rating": "TV-MA",
+    "runtime": 83,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Mamoru Oshii"
+    ],
+    "cast": [
+      "Atsuko Tanaka",
+      "Iemasa Kayumi"
+    ],
+    "gross": 520000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea156"
+    },
+    "rank": "36",
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "rating": "PG",
+    "runtime": 76,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Henry Selick"
+    ],
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O",
+      "William Hickey"
+    ],
+    "gross": 75080000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea157"
+    },
+    "rank": "37",
+    "title": "Aladdin",
+    "year": "1992",
+    "rating": "G",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman"
+    ],
+    "gross": 217350000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea158"
+    },
+    "rank": "38",
+    "title": "Beauty and the Beast",
+    "year": "1991",
+    "rating": "G",
+    "runtime": 84,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "cast": [
+      "Paige O",
+      "Robby Benson",
+      "Jesse Corti",
+      "Rex Everhart"
+    ],
+    "gross": 218970000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea159"
+    },
+    "rank": "39",
+    "title": "Akira",
+    "year": "1988",
+    "rating": "R",
+    "runtime": 124,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Katsuhiro "
+    ],
+    "cast": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama"
+    ],
+    "gross": 550000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea15a"
+    },
+    "rank": "40",
+    "title": "Castle in the Sky",
+    "year": "1986",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Mayumi Tanaka",
+      "Keiko Yokozawa",
+      "Kotoe Hatsui",
+      "Minori Terada"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea15b"
+    },
+    "rank": "41",
+    "title": "Isle of Dogs",
+    "year": "2018",
+    "rating": "PG-13",
+    "runtime": 101,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Koyu Rankin",
+      "Edward Norton",
+      "Bob Balaban"
+    ],
+    "gross": 32020000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea15c"
+    },
+    "rank": "42",
+    "title": "Fantastic Mr. Fox",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Bill Murray",
+      "Jason Schwartzman"
+    ],
+    "gross": 21000000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea15d"
+    },
+    "rank": "43",
+    "title": "Millennium Actress",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Miyoko Sh",
+      "Mami Koyama",
+      "Fumiko Orikasa"
+    ],
+    "gross": 190000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea15e"
+    },
+    "rank": "44",
+    "title": "Cowboy Bebop: The Movie",
+    "year": "2001",
+    "rating": "TV-14",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Tensai Okamura",
+      "Hiroyuki Okiura",
+      "Yoshiyuki Takei"
+    ],
+    "cast": [
+      "Beau Billingslea",
+      "Melissa Fahn",
+      "Nicholas Guest"
+    ],
+    "gross": 1000000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea15f"
+    },
+    "rank": "45",
+    "title": "Shrek",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "gross": 267670000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea160"
+    },
+    "rank": "46",
+    "title": "Toy Story 2",
+    "year": "1999",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "John Lasseter",
+      "Ash Brannon",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer"
+    ],
+    "gross": 245850000
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea161"
+    },
+    "rank": "47",
+    "title": "Whisper of the Heart",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshifumi Kond"
+    ],
+    "cast": [
+      "Yoko Honna",
+      "Issey Takahashi",
+      "Takashi Tachibana",
+      "Shigeru Muroi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea162"
+    },
+    "rank": "48",
+    "title": "Ninja Scroll",
+    "year": "1993",
+    "rating": "Not Rated",
+    "runtime": 94,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshiaki Kawajiri"
+    ],
+    "cast": [
+      "Emi Shinohara",
+      "Takeshi Aono",
+      "Osamu Saka"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea163"
+    },
+    "rank": "49",
+    "title": "Kiki's Delivery Service",
+    "year": "1989",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Kirsten Dunst",
+      "Minami Takayama",
+      "Rei Sakuma",
+      "Kappei Yamaguchi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "617efa278a5dd277669ea164"
+    },
+    "rank": "50",
+    "title": "Paddington 2",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.8,
+    "directors": [
+      "Paul King"
+    ],
+    "cast": [
+      "Ben Whishaw",
+      "Hugh Grant",
+      "Hugh Bonneville",
+      "Sally Hawkins"
+    ],
+    "gross": 40440000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4509"
+    },
+    "rank": "1",
+    "title": "Spirited Away",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.6,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino",
+      "Rumi Hiiragi"
+    ],
+    "gross": 10060000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba450a"
+    },
+    "rank": "2",
+    "title": "The Lion King",
+    "year": "1994",
+    "rating": "G",
+    "runtime": 88,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl",
+      "Whoopi Goldberg"
+    ],
+    "gross": 422780000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba450b"
+    },
+    "rank": "3",
+    "title": "Grave of the Fireflies",
+    "year": "1988",
+    "rating": "Not Rated",
+    "runtime": 89,
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi",
+      "Yoshiko Shinohara"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba450c"
+    },
+    "rank": "4",
+    "title": "Your Name.",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 106,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "cast": [
+      "Mone Kamishiraishi",
+      "Aoi Y"
+    ],
+    "gross": 5020000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba450d"
+    },
+    "rank": "5",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "gross": 190240000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba450e"
+    },
+    "rank": "6",
+    "title": "Coco",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 105,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael Garc",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "gross": 209730000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba450f"
+    },
+    "rank": "7",
+    "title": "WALL\u00b7E",
+    "year": "2008",
+    "rating": "G",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "gross": 223810000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4510"
+    },
+    "rank": "8",
+    "title": "Princess Mononoke",
+    "year": "1997",
+    "rating": "PG-13",
+    "runtime": 134,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Yuriko Ishida",
+      "Billy Crudup"
+    ],
+    "gross": 2380000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4511"
+    },
+    "rank": "9",
+    "title": "Demon Slayer: Mugen Train",
+    "year": "2020",
+    "rating": "R",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.3,
+    "directors": [
+      "Haruo Sotozaki"
+    ],
+    "cast": [
+      "Natsuki Hanae",
+      "Akari Kit",
+      "Yoshitsugu Matsuoka",
+      "Hiro Shimono"
+    ],
+    "gross": 47700000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4512"
+    },
+    "rank": "10",
+    "title": "Toy Story",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.3,
+    "directors": [
+      "John Lasseter"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney"
+    ],
+    "gross": 191800000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4513"
+    },
+    "rank": "11",
+    "title": "A Silent Voice: The Movie",
+    "year": "2016",
+    "rating": "Not Rated",
+    "runtime": 130,
+    "genre": [
+      "Animation",
+      "Drama"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Naoko Yamada"
+    ],
+    "cast": [
+      "Miyu Irino",
+      "Saori Hayami",
+      "Aoi Y"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4514"
+    },
+    "rank": "12",
+    "title": "Klaus",
+    "year": "2019",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Sergio Pablos",
+      "Carlos Mart"
+    ],
+    "cast": [
+      "Jason Schwartzman",
+      "Rashida Jones",
+      "Will Sasso"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4515"
+    },
+    "rank": "13",
+    "title": "Up",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "cast": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "John Ratzenberger",
+      "Christopher Plummer"
+    ],
+    "gross": 293000000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4516"
+    },
+    "rank": "14",
+    "title": "Toy Story 3",
+    "year": "2010",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Ned Beatty"
+    ],
+    "gross": 415000000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4517"
+    },
+    "rank": "15",
+    "title": "Howl's Moving Castle",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 119,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Chieko Baish",
+      "Takuya Kimura",
+      "Tatsuya Gash",
+      "Akihiro Miwa"
+    ],
+    "gross": 4710000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4518"
+    },
+    "rank": "16",
+    "title": "My Neighbor Totoro",
+    "year": "1988",
+    "rating": "G",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Shigesato Itoi"
+    ],
+    "gross": 1110000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4519"
+    },
+    "rank": "17",
+    "title": "Soul",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Kemp Powers"
+    ],
+    "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba451a"
+    },
+    "rank": "18",
+    "title": "Wolf Children",
+    "year": "2012",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Mamoru Hosoda"
+    ],
+    "cast": [
+      "Aoi Miyazaki",
+      "Takao Osawa",
+      "Haru Kuroki",
+      "Yukito Nishii"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba451b"
+    },
+    "rank": "19",
+    "title": "Inside Out",
+    "year": "2015",
+    "rating": "PG",
+    "runtime": 95,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Ronnie Del",
+      "Carmen\n"
+    ],
+    "cast": [
+      "Amy Poehler",
+      "Bill Hader",
+      "Lewis Black",
+      "Mindy Kaling"
+    ],
+    "gross": 356460000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba451c"
+    },
+    "rank": "20",
+    "title": "Song of the Sea",
+    "year": "2014",
+    "rating": "PG",
+    "runtime": 93,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Tomm Moore"
+    ],
+    "cast": [
+      "David Rawle",
+      "Brendan Gleeson",
+      "Lisa Hannigan",
+      "Fionnula Flanagan"
+    ],
+    "gross": 860000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba451d"
+    },
+    "rank": "21",
+    "title": "Mary and Max",
+    "year": "2009",
+    "rating": "Not Rated",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Adam Elliot"
+    ],
+    "cast": [
+      "Toni Collette",
+      "Philip Seymour",
+      "Eric Bana",
+      "Barry Humphries"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba451e"
+    },
+    "rank": "22",
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "rating": "PG",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Christopher Mintz",
+      "Craig Ferguson"
+    ],
+    "gross": 217580000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba451f"
+    },
+    "rank": "23",
+    "title": "Finding Nemo",
+    "year": "2003",
+    "rating": "G",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Albert Brooks",
+      "Ellen De",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "gross": 380840000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4520"
+    },
+    "rank": "24",
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "David Silverman",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Billy Crystal",
+      "John Goodman",
+      "Mary Gibbs",
+      "Steve Buscemi"
+    ],
+    "gross": 289920000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4521"
+    },
+    "rank": "25",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "year": "1997",
+    "rating": "TV-MA",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hideaki Anno",
+      "Kazuya Tsurumaki"
+    ],
+    "cast": [
+      "Megumi Ogata",
+      "Megumi Hayashibara",
+      "Kotono Mitsuishi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4522"
+    },
+    "rank": "26",
+    "title": "Nausica\u00e4 of the Valley of the Wind",
+    "year": "1984",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Ky"
+    ],
+    "gross": 500000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4523"
+    },
+    "rank": "27",
+    "title": "Wolfwalkers",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Tomm Moore",
+      "Ross Stewart"
+    ],
+    "cast": [
+      "Honor Kneafsey",
+      "Eva Whittaker",
+      "Sean Bean",
+      "Simon Mc"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4524"
+    },
+    "rank": "28",
+    "title": "Zootopia",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 108,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Byron Howard",
+      "Rich Moore",
+      "Jared Bush"
+    ],
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba",
+      "Jenny Slate"
+    ],
+    "gross": 341270000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4525"
+    },
+    "rank": "29",
+    "title": "The Tale of The Princess Kaguya",
+    "year": "2013",
+    "rating": "PG",
+    "runtime": 137,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Grace Moretz",
+      "James Caan",
+      "Mary Steenburgen",
+      "James Marsden"
+    ],
+    "gross": 1510000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4526"
+    },
+    "rank": "30",
+    "title": "Persepolis",
+    "year": "2007",
+    "rating": "PG-13",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Biography",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Vincent Paronnaud",
+      "Marjane Satrapi"
+    ],
+    "cast": [
+      "Chiara Mastroianni",
+      "Catherine Deneuve",
+      "Gena Rowlands",
+      "Danielle Darrieux"
+    ],
+    "gross": 4450000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4527"
+    },
+    "rank": "31",
+    "title": "Ratatouille",
+    "year": "2007",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "cast": [
+      "Brad Garrett",
+      "Lou Romano",
+      "Patton Oswalt",
+      "Ian Holm"
+    ],
+    "gross": 206450000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4528"
+    },
+    "rank": "32",
+    "title": "The Incredibles",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Craig T",
+      "Samuel L",
+      "Holly Hunter",
+      "Jason Lee"
+    ],
+    "gross": 261440000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4529"
+    },
+    "rank": "33",
+    "title": "Perfect Blue",
+    "year": "1997",
+    "rating": "R",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Crime",
+      "Mystery"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Junko Iwao",
+      "Rica Matsumoto",
+      "Shinpachi Tsuji"
+    ],
+    "gross": 780000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba452a"
+    },
+    "rank": "34",
+    "title": "The Iron Giant",
+    "year": "1999",
+    "rating": "PG",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Eli Marienthal",
+      "Harry Connick",
+      "Jennifer Aniston",
+      "Vin Diesel"
+    ],
+    "gross": 23160000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba452b"
+    },
+    "rank": "35",
+    "title": "Ghost in the Shell",
+    "year": "1995",
+    "rating": "TV-MA",
+    "runtime": 83,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Mamoru Oshii"
+    ],
+    "cast": [
+      "Atsuko Tanaka",
+      "Iemasa Kayumi"
+    ],
+    "gross": 520000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba452c"
+    },
+    "rank": "36",
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "rating": "PG",
+    "runtime": 76,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Henry Selick"
+    ],
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O",
+      "William Hickey"
+    ],
+    "gross": 75080000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba452d"
+    },
+    "rank": "37",
+    "title": "Aladdin",
+    "year": "1992",
+    "rating": "G",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman"
+    ],
+    "gross": 217350000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba452e"
+    },
+    "rank": "38",
+    "title": "Beauty and the Beast",
+    "year": "1991",
+    "rating": "G",
+    "runtime": 84,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "cast": [
+      "Paige O",
+      "Robby Benson",
+      "Jesse Corti",
+      "Rex Everhart"
+    ],
+    "gross": 218970000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba452f"
+    },
+    "rank": "39",
+    "title": "Akira",
+    "year": "1988",
+    "rating": "R",
+    "runtime": 124,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Katsuhiro "
+    ],
+    "cast": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama"
+    ],
+    "gross": 550000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4530"
+    },
+    "rank": "40",
+    "title": "Castle in the Sky",
+    "year": "1986",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Mayumi Tanaka",
+      "Keiko Yokozawa",
+      "Kotoe Hatsui",
+      "Minori Terada"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4531"
+    },
+    "rank": "41",
+    "title": "Isle of Dogs",
+    "year": "2018",
+    "rating": "PG-13",
+    "runtime": 101,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Koyu Rankin",
+      "Edward Norton",
+      "Bob Balaban"
+    ],
+    "gross": 32020000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4532"
+    },
+    "rank": "42",
+    "title": "Fantastic Mr. Fox",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Bill Murray",
+      "Jason Schwartzman"
+    ],
+    "gross": 21000000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4533"
+    },
+    "rank": "43",
+    "title": "Millennium Actress",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Miyoko Sh",
+      "Mami Koyama",
+      "Fumiko Orikasa"
+    ],
+    "gross": 190000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4534"
+    },
+    "rank": "44",
+    "title": "Cowboy Bebop: The Movie",
+    "year": "2001",
+    "rating": "TV-14",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Tensai Okamura",
+      "Hiroyuki Okiura",
+      "Yoshiyuki Takei"
+    ],
+    "cast": [
+      "Beau Billingslea",
+      "Melissa Fahn",
+      "Nicholas Guest"
+    ],
+    "gross": 1000000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4535"
+    },
+    "rank": "45",
+    "title": "Shrek",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "gross": 267670000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4536"
+    },
+    "rank": "46",
+    "title": "Toy Story 2",
+    "year": "1999",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "John Lasseter",
+      "Ash Brannon",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer"
+    ],
+    "gross": 245850000
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4537"
+    },
+    "rank": "47",
+    "title": "Whisper of the Heart",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshifumi Kond"
+    ],
+    "cast": [
+      "Yoko Honna",
+      "Issey Takahashi",
+      "Takashi Tachibana",
+      "Shigeru Muroi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4538"
+    },
+    "rank": "48",
+    "title": "Ninja Scroll",
+    "year": "1993",
+    "rating": "Not Rated",
+    "runtime": 94,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshiaki Kawajiri"
+    ],
+    "cast": [
+      "Emi Shinohara",
+      "Takeshi Aono",
+      "Osamu Saka"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba4539"
+    },
+    "rank": "49",
+    "title": "Kiki's Delivery Service",
+    "year": "1989",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Kirsten Dunst",
+      "Minami Takayama",
+      "Rei Sakuma",
+      "Kappei Yamaguchi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182bd236c6e5742c0ba453a"
+    },
+    "rank": "50",
+    "title": "Paddington 2",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.8,
+    "directors": [
+      "Paul King"
+    ],
+    "cast": [
+      "Ben Whishaw",
+      "Hugh Grant",
+      "Hugh Bonneville",
+      "Sally Hawkins"
+    ],
+    "gross": 40440000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c210"
+    },
+    "rank": "1",
+    "title": "Spirited Away",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.6,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino",
+      "Rumi Hiiragi"
+    ],
+    "gross": 10060000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c211"
+    },
+    "rank": "2",
+    "title": "The Lion King",
+    "year": "1994",
+    "rating": "G",
+    "runtime": 88,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl",
+      "Whoopi Goldberg"
+    ],
+    "gross": 422780000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c212"
+    },
+    "rank": "3",
+    "title": "Grave of the Fireflies",
+    "year": "1988",
+    "rating": "Not Rated",
+    "runtime": 89,
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi",
+      "Yoshiko Shinohara"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c213"
+    },
+    "rank": "4",
+    "title": "Your Name.",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 106,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "cast": [
+      "Mone Kamishiraishi",
+      "Aoi Y"
+    ],
+    "gross": 5020000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c214"
+    },
+    "rank": "5",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "gross": 190240000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c215"
+    },
+    "rank": "6",
+    "title": "Coco",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 105,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael Garc",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "gross": 209730000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c216"
+    },
+    "rank": "7",
+    "title": "WALL\u00b7E",
+    "year": "2008",
+    "rating": "G",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "gross": 223810000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c217"
+    },
+    "rank": "8",
+    "title": "Princess Mononoke",
+    "year": "1997",
+    "rating": "PG-13",
+    "runtime": 134,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Yuriko Ishida",
+      "Billy Crudup"
+    ],
+    "gross": 2380000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c218"
+    },
+    "rank": "9",
+    "title": "Demon Slayer: Mugen Train",
+    "year": "2020",
+    "rating": "R",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.3,
+    "directors": [
+      "Haruo Sotozaki"
+    ],
+    "cast": [
+      "Natsuki Hanae",
+      "Akari Kit",
+      "Yoshitsugu Matsuoka",
+      "Hiro Shimono"
+    ],
+    "gross": 47700000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c219"
+    },
+    "rank": "10",
+    "title": "Toy Story",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.3,
+    "directors": [
+      "John Lasseter"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney"
+    ],
+    "gross": 191800000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c21a"
+    },
+    "rank": "11",
+    "title": "A Silent Voice: The Movie",
+    "year": "2016",
+    "rating": "Not Rated",
+    "runtime": 130,
+    "genre": [
+      "Animation",
+      "Drama"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Naoko Yamada"
+    ],
+    "cast": [
+      "Miyu Irino",
+      "Saori Hayami",
+      "Aoi Y"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c21b"
+    },
+    "rank": "12",
+    "title": "Klaus",
+    "year": "2019",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Sergio Pablos",
+      "Carlos Mart"
+    ],
+    "cast": [
+      "Jason Schwartzman",
+      "Rashida Jones",
+      "Will Sasso"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c21c"
+    },
+    "rank": "13",
+    "title": "Up",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "cast": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "John Ratzenberger",
+      "Christopher Plummer"
+    ],
+    "gross": 293000000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c21d"
+    },
+    "rank": "14",
+    "title": "Toy Story 3",
+    "year": "2010",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Ned Beatty"
+    ],
+    "gross": 415000000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c21e"
+    },
+    "rank": "15",
+    "title": "Howl's Moving Castle",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 119,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Chieko Baish",
+      "Takuya Kimura",
+      "Tatsuya Gash",
+      "Akihiro Miwa"
+    ],
+    "gross": 4710000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c21f"
+    },
+    "rank": "16",
+    "title": "My Neighbor Totoro",
+    "year": "1988",
+    "rating": "G",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Shigesato Itoi"
+    ],
+    "gross": 1110000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c220"
+    },
+    "rank": "17",
+    "title": "Soul",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Kemp Powers"
+    ],
+    "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c221"
+    },
+    "rank": "18",
+    "title": "Wolf Children",
+    "year": "2012",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Mamoru Hosoda"
+    ],
+    "cast": [
+      "Aoi Miyazaki",
+      "Takao Osawa",
+      "Haru Kuroki",
+      "Yukito Nishii"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c222"
+    },
+    "rank": "19",
+    "title": "Inside Out",
+    "year": "2015",
+    "rating": "PG",
+    "runtime": 95,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Ronnie Del",
+      "Carmen\n"
+    ],
+    "cast": [
+      "Amy Poehler",
+      "Bill Hader",
+      "Lewis Black",
+      "Mindy Kaling"
+    ],
+    "gross": 356460000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c223"
+    },
+    "rank": "20",
+    "title": "Song of the Sea",
+    "year": "2014",
+    "rating": "PG",
+    "runtime": 93,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Tomm Moore"
+    ],
+    "cast": [
+      "David Rawle",
+      "Brendan Gleeson",
+      "Lisa Hannigan",
+      "Fionnula Flanagan"
+    ],
+    "gross": 860000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c224"
+    },
+    "rank": "21",
+    "title": "Mary and Max",
+    "year": "2009",
+    "rating": "Not Rated",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Adam Elliot"
+    ],
+    "cast": [
+      "Toni Collette",
+      "Philip Seymour",
+      "Eric Bana",
+      "Barry Humphries"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c225"
+    },
+    "rank": "22",
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "rating": "PG",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Christopher Mintz",
+      "Craig Ferguson"
+    ],
+    "gross": 217580000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c226"
+    },
+    "rank": "23",
+    "title": "Finding Nemo",
+    "year": "2003",
+    "rating": "G",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Albert Brooks",
+      "Ellen De",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "gross": 380840000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c227"
+    },
+    "rank": "24",
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "David Silverman",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Billy Crystal",
+      "John Goodman",
+      "Mary Gibbs",
+      "Steve Buscemi"
+    ],
+    "gross": 289920000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c228"
+    },
+    "rank": "25",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "year": "1997",
+    "rating": "TV-MA",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hideaki Anno",
+      "Kazuya Tsurumaki"
+    ],
+    "cast": [
+      "Megumi Ogata",
+      "Megumi Hayashibara",
+      "Kotono Mitsuishi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c229"
+    },
+    "rank": "26",
+    "title": "Nausica\u00e4 of the Valley of the Wind",
+    "year": "1984",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Ky"
+    ],
+    "gross": 500000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c22a"
+    },
+    "rank": "27",
+    "title": "Wolfwalkers",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Tomm Moore",
+      "Ross Stewart"
+    ],
+    "cast": [
+      "Honor Kneafsey",
+      "Eva Whittaker",
+      "Sean Bean",
+      "Simon Mc"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c22b"
+    },
+    "rank": "28",
+    "title": "Zootopia",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 108,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Byron Howard",
+      "Rich Moore",
+      "Jared Bush"
+    ],
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba",
+      "Jenny Slate"
+    ],
+    "gross": 341270000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c22c"
+    },
+    "rank": "29",
+    "title": "The Tale of The Princess Kaguya",
+    "year": "2013",
+    "rating": "PG",
+    "runtime": 137,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Grace Moretz",
+      "James Caan",
+      "Mary Steenburgen",
+      "James Marsden"
+    ],
+    "gross": 1510000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c22d"
+    },
+    "rank": "30",
+    "title": "Persepolis",
+    "year": "2007",
+    "rating": "PG-13",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Biography",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Vincent Paronnaud",
+      "Marjane Satrapi"
+    ],
+    "cast": [
+      "Chiara Mastroianni",
+      "Catherine Deneuve",
+      "Gena Rowlands",
+      "Danielle Darrieux"
+    ],
+    "gross": 4450000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c22e"
+    },
+    "rank": "31",
+    "title": "Ratatouille",
+    "year": "2007",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "cast": [
+      "Brad Garrett",
+      "Lou Romano",
+      "Patton Oswalt",
+      "Ian Holm"
+    ],
+    "gross": 206450000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c22f"
+    },
+    "rank": "32",
+    "title": "The Incredibles",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Craig T",
+      "Samuel L",
+      "Holly Hunter",
+      "Jason Lee"
+    ],
+    "gross": 261440000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c230"
+    },
+    "rank": "33",
+    "title": "Perfect Blue",
+    "year": "1997",
+    "rating": "R",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Crime",
+      "Mystery"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Junko Iwao",
+      "Rica Matsumoto",
+      "Shinpachi Tsuji"
+    ],
+    "gross": 780000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c231"
+    },
+    "rank": "34",
+    "title": "The Iron Giant",
+    "year": "1999",
+    "rating": "PG",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Eli Marienthal",
+      "Harry Connick",
+      "Jennifer Aniston",
+      "Vin Diesel"
+    ],
+    "gross": 23160000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c232"
+    },
+    "rank": "35",
+    "title": "Ghost in the Shell",
+    "year": "1995",
+    "rating": "TV-MA",
+    "runtime": 83,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Mamoru Oshii"
+    ],
+    "cast": [
+      "Atsuko Tanaka",
+      "Iemasa Kayumi"
+    ],
+    "gross": 520000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c233"
+    },
+    "rank": "36",
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "rating": "PG",
+    "runtime": 76,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Henry Selick"
+    ],
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O",
+      "William Hickey"
+    ],
+    "gross": 75080000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c234"
+    },
+    "rank": "37",
+    "title": "Aladdin",
+    "year": "1992",
+    "rating": "G",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman"
+    ],
+    "gross": 217350000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c235"
+    },
+    "rank": "38",
+    "title": "Beauty and the Beast",
+    "year": "1991",
+    "rating": "G",
+    "runtime": 84,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "cast": [
+      "Paige O",
+      "Robby Benson",
+      "Jesse Corti",
+      "Rex Everhart"
+    ],
+    "gross": 218970000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c236"
+    },
+    "rank": "39",
+    "title": "Akira",
+    "year": "1988",
+    "rating": "R",
+    "runtime": 124,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Katsuhiro "
+    ],
+    "cast": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama"
+    ],
+    "gross": 550000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c237"
+    },
+    "rank": "40",
+    "title": "Castle in the Sky",
+    "year": "1986",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Mayumi Tanaka",
+      "Keiko Yokozawa",
+      "Kotoe Hatsui",
+      "Minori Terada"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c238"
+    },
+    "rank": "41",
+    "title": "Isle of Dogs",
+    "year": "2018",
+    "rating": "PG-13",
+    "runtime": 101,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Koyu Rankin",
+      "Edward Norton",
+      "Bob Balaban"
+    ],
+    "gross": 32020000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c239"
+    },
+    "rank": "42",
+    "title": "Fantastic Mr. Fox",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Bill Murray",
+      "Jason Schwartzman"
+    ],
+    "gross": 21000000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c23a"
+    },
+    "rank": "43",
+    "title": "Millennium Actress",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Miyoko Sh",
+      "Mami Koyama",
+      "Fumiko Orikasa"
+    ],
+    "gross": 190000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c23b"
+    },
+    "rank": "44",
+    "title": "Cowboy Bebop: The Movie",
+    "year": "2001",
+    "rating": "TV-14",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Tensai Okamura",
+      "Hiroyuki Okiura",
+      "Yoshiyuki Takei"
+    ],
+    "cast": [
+      "Beau Billingslea",
+      "Melissa Fahn",
+      "Nicholas Guest"
+    ],
+    "gross": 1000000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c23c"
+    },
+    "rank": "45",
+    "title": "Shrek",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "gross": 267670000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c23d"
+    },
+    "rank": "46",
+    "title": "Toy Story 2",
+    "year": "1999",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "John Lasseter",
+      "Ash Brannon",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer"
+    ],
+    "gross": 245850000
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c23e"
+    },
+    "rank": "47",
+    "title": "Whisper of the Heart",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshifumi Kond"
+    ],
+    "cast": [
+      "Yoko Honna",
+      "Issey Takahashi",
+      "Takashi Tachibana",
+      "Shigeru Muroi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c23f"
+    },
+    "rank": "48",
+    "title": "Ninja Scroll",
+    "year": "1993",
+    "rating": "Not Rated",
+    "runtime": 94,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshiaki Kawajiri"
+    ],
+    "cast": [
+      "Emi Shinohara",
+      "Takeshi Aono",
+      "Osamu Saka"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c240"
+    },
+    "rank": "49",
+    "title": "Kiki's Delivery Service",
+    "year": "1989",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Kirsten Dunst",
+      "Minami Takayama",
+      "Rei Sakuma",
+      "Kappei Yamaguchi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182cecb43732f36b872c241"
+    },
+    "rank": "50",
+    "title": "Paddington 2",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.8,
+    "directors": [
+      "Paul King"
+    ],
+    "cast": [
+      "Ben Whishaw",
+      "Hugh Grant",
+      "Hugh Bonneville",
+      "Sally Hawkins"
+    ],
+    "gross": 40440000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb84"
+    },
+    "rank": "1",
+    "title": "Spirited Away",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.6,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino",
+      "Rumi Hiiragi"
+    ],
+    "gross": 10060000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb85"
+    },
+    "rank": "2",
+    "title": "The Lion King",
+    "year": "1994",
+    "rating": "G",
+    "runtime": 88,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl",
+      "Whoopi Goldberg"
+    ],
+    "gross": 422780000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb86"
+    },
+    "rank": "3",
+    "title": "Grave of the Fireflies",
+    "year": "1988",
+    "rating": "Not Rated",
+    "runtime": 89,
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi",
+      "Yoshiko Shinohara"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb87"
+    },
+    "rank": "4",
+    "title": "Your Name.",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 106,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "cast": [
+      "Mone Kamishiraishi",
+      "Aoi Y"
+    ],
+    "gross": 5020000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb88"
+    },
+    "rank": "5",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "gross": 190240000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb89"
+    },
+    "rank": "6",
+    "title": "Coco",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 105,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael Garc",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "gross": 209730000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb8a"
+    },
+    "rank": "7",
+    "title": "WALL\u00b7E",
+    "year": "2008",
+    "rating": "G",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "gross": 223810000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb8b"
+    },
+    "rank": "8",
+    "title": "Princess Mononoke",
+    "year": "1997",
+    "rating": "PG-13",
+    "runtime": 134,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Yuriko Ishida",
+      "Billy Crudup"
+    ],
+    "gross": 2380000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb8c"
+    },
+    "rank": "9",
+    "title": "Demon Slayer: Mugen Train",
+    "year": "2020",
+    "rating": "R",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.3,
+    "directors": [
+      "Haruo Sotozaki"
+    ],
+    "cast": [
+      "Natsuki Hanae",
+      "Akari Kit",
+      "Yoshitsugu Matsuoka",
+      "Hiro Shimono"
+    ],
+    "gross": 47700000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb8d"
+    },
+    "rank": "10",
+    "title": "Toy Story",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.3,
+    "directors": [
+      "John Lasseter"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney"
+    ],
+    "gross": 191800000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb8e"
+    },
+    "rank": "11",
+    "title": "A Silent Voice: The Movie",
+    "year": "2016",
+    "rating": "Not Rated",
+    "runtime": 130,
+    "genre": [
+      "Animation",
+      "Drama"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Naoko Yamada"
+    ],
+    "cast": [
+      "Miyu Irino",
+      "Saori Hayami",
+      "Aoi Y"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb8f"
+    },
+    "rank": "12",
+    "title": "Klaus",
+    "year": "2019",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Sergio Pablos",
+      "Carlos Mart"
+    ],
+    "cast": [
+      "Jason Schwartzman",
+      "Rashida Jones",
+      "Will Sasso"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb90"
+    },
+    "rank": "13",
+    "title": "Up",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "cast": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "John Ratzenberger",
+      "Christopher Plummer"
+    ],
+    "gross": 293000000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb91"
+    },
+    "rank": "14",
+    "title": "Toy Story 3",
+    "year": "2010",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Ned Beatty"
+    ],
+    "gross": 415000000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb92"
+    },
+    "rank": "15",
+    "title": "Howl's Moving Castle",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 119,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Chieko Baish",
+      "Takuya Kimura",
+      "Tatsuya Gash",
+      "Akihiro Miwa"
+    ],
+    "gross": 4710000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb93"
+    },
+    "rank": "16",
+    "title": "My Neighbor Totoro",
+    "year": "1988",
+    "rating": "G",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Shigesato Itoi"
+    ],
+    "gross": 1110000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb94"
+    },
+    "rank": "17",
+    "title": "Soul",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Kemp Powers"
+    ],
+    "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb95"
+    },
+    "rank": "18",
+    "title": "Wolf Children",
+    "year": "2012",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Mamoru Hosoda"
+    ],
+    "cast": [
+      "Aoi Miyazaki",
+      "Takao Osawa",
+      "Haru Kuroki",
+      "Yukito Nishii"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb96"
+    },
+    "rank": "19",
+    "title": "Inside Out",
+    "year": "2015",
+    "rating": "PG",
+    "runtime": 95,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Ronnie Del",
+      "Carmen\n"
+    ],
+    "cast": [
+      "Amy Poehler",
+      "Bill Hader",
+      "Lewis Black",
+      "Mindy Kaling"
+    ],
+    "gross": 356460000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb97"
+    },
+    "rank": "20",
+    "title": "Song of the Sea",
+    "year": "2014",
+    "rating": "PG",
+    "runtime": 93,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Tomm Moore"
+    ],
+    "cast": [
+      "David Rawle",
+      "Brendan Gleeson",
+      "Lisa Hannigan",
+      "Fionnula Flanagan"
+    ],
+    "gross": 860000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb98"
+    },
+    "rank": "21",
+    "title": "Mary and Max",
+    "year": "2009",
+    "rating": "Not Rated",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Adam Elliot"
+    ],
+    "cast": [
+      "Toni Collette",
+      "Philip Seymour",
+      "Eric Bana",
+      "Barry Humphries"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb99"
+    },
+    "rank": "22",
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "rating": "PG",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Christopher Mintz",
+      "Craig Ferguson"
+    ],
+    "gross": 217580000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb9a"
+    },
+    "rank": "23",
+    "title": "Finding Nemo",
+    "year": "2003",
+    "rating": "G",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Albert Brooks",
+      "Ellen De",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "gross": 380840000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb9b"
+    },
+    "rank": "24",
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "David Silverman",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Billy Crystal",
+      "John Goodman",
+      "Mary Gibbs",
+      "Steve Buscemi"
+    ],
+    "gross": 289920000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb9c"
+    },
+    "rank": "25",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "year": "1997",
+    "rating": "TV-MA",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hideaki Anno",
+      "Kazuya Tsurumaki"
+    ],
+    "cast": [
+      "Megumi Ogata",
+      "Megumi Hayashibara",
+      "Kotono Mitsuishi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb9d"
+    },
+    "rank": "26",
+    "title": "Nausica\u00e4 of the Valley of the Wind",
+    "year": "1984",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Ky"
+    ],
+    "gross": 500000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb9e"
+    },
+    "rank": "27",
+    "title": "Wolfwalkers",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Tomm Moore",
+      "Ross Stewart"
+    ],
+    "cast": [
+      "Honor Kneafsey",
+      "Eva Whittaker",
+      "Sean Bean",
+      "Simon Mc"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cb9f"
+    },
+    "rank": "28",
+    "title": "Zootopia",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 108,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Byron Howard",
+      "Rich Moore",
+      "Jared Bush"
+    ],
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba",
+      "Jenny Slate"
+    ],
+    "gross": 341270000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cba0"
+    },
+    "rank": "29",
+    "title": "The Tale of The Princess Kaguya",
+    "year": "2013",
+    "rating": "PG",
+    "runtime": 137,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Grace Moretz",
+      "James Caan",
+      "Mary Steenburgen",
+      "James Marsden"
+    ],
+    "gross": 1510000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cba1"
+    },
+    "rank": "30",
+    "title": "Persepolis",
+    "year": "2007",
+    "rating": "PG-13",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Biography",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Vincent Paronnaud",
+      "Marjane Satrapi"
+    ],
+    "cast": [
+      "Chiara Mastroianni",
+      "Catherine Deneuve",
+      "Gena Rowlands",
+      "Danielle Darrieux"
+    ],
+    "gross": 4450000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cba2"
+    },
+    "rank": "31",
+    "title": "Ratatouille",
+    "year": "2007",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "cast": [
+      "Brad Garrett",
+      "Lou Romano",
+      "Patton Oswalt",
+      "Ian Holm"
+    ],
+    "gross": 206450000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cba3"
+    },
+    "rank": "32",
+    "title": "The Incredibles",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Craig T",
+      "Samuel L",
+      "Holly Hunter",
+      "Jason Lee"
+    ],
+    "gross": 261440000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cba4"
+    },
+    "rank": "33",
+    "title": "Perfect Blue",
+    "year": "1997",
+    "rating": "R",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Crime",
+      "Mystery"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Junko Iwao",
+      "Rica Matsumoto",
+      "Shinpachi Tsuji"
+    ],
+    "gross": 780000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cba5"
+    },
+    "rank": "34",
+    "title": "The Iron Giant",
+    "year": "1999",
+    "rating": "PG",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Eli Marienthal",
+      "Harry Connick",
+      "Jennifer Aniston",
+      "Vin Diesel"
+    ],
+    "gross": 23160000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cba6"
+    },
+    "rank": "35",
+    "title": "Ghost in the Shell",
+    "year": "1995",
+    "rating": "TV-MA",
+    "runtime": 83,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Mamoru Oshii"
+    ],
+    "cast": [
+      "Atsuko Tanaka",
+      "Iemasa Kayumi"
+    ],
+    "gross": 520000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cba7"
+    },
+    "rank": "36",
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "rating": "PG",
+    "runtime": 76,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Henry Selick"
+    ],
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O",
+      "William Hickey"
+    ],
+    "gross": 75080000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cba8"
+    },
+    "rank": "37",
+    "title": "Aladdin",
+    "year": "1992",
+    "rating": "G",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman"
+    ],
+    "gross": 217350000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cba9"
+    },
+    "rank": "38",
+    "title": "Beauty and the Beast",
+    "year": "1991",
+    "rating": "G",
+    "runtime": 84,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "cast": [
+      "Paige O",
+      "Robby Benson",
+      "Jesse Corti",
+      "Rex Everhart"
+    ],
+    "gross": 218970000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbaa"
+    },
+    "rank": "39",
+    "title": "Akira",
+    "year": "1988",
+    "rating": "R",
+    "runtime": 124,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Katsuhiro "
+    ],
+    "cast": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama"
+    ],
+    "gross": 550000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbab"
+    },
+    "rank": "40",
+    "title": "Castle in the Sky",
+    "year": "1986",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Mayumi Tanaka",
+      "Keiko Yokozawa",
+      "Kotoe Hatsui",
+      "Minori Terada"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbac"
+    },
+    "rank": "41",
+    "title": "Isle of Dogs",
+    "year": "2018",
+    "rating": "PG-13",
+    "runtime": 101,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Koyu Rankin",
+      "Edward Norton",
+      "Bob Balaban"
+    ],
+    "gross": 32020000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbad"
+    },
+    "rank": "42",
+    "title": "Fantastic Mr. Fox",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Bill Murray",
+      "Jason Schwartzman"
+    ],
+    "gross": 21000000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbae"
+    },
+    "rank": "43",
+    "title": "Millennium Actress",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Miyoko Sh",
+      "Mami Koyama",
+      "Fumiko Orikasa"
+    ],
+    "gross": 190000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbaf"
+    },
+    "rank": "44",
+    "title": "Cowboy Bebop: The Movie",
+    "year": "2001",
+    "rating": "TV-14",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Tensai Okamura",
+      "Hiroyuki Okiura",
+      "Yoshiyuki Takei"
+    ],
+    "cast": [
+      "Beau Billingslea",
+      "Melissa Fahn",
+      "Nicholas Guest"
+    ],
+    "gross": 1000000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbb0"
+    },
+    "rank": "45",
+    "title": "Shrek",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "gross": 267670000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbb1"
+    },
+    "rank": "46",
+    "title": "Toy Story 2",
+    "year": "1999",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "John Lasseter",
+      "Ash Brannon",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer"
+    ],
+    "gross": 245850000
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbb2"
+    },
+    "rank": "47",
+    "title": "Whisper of the Heart",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshifumi Kond"
+    ],
+    "cast": [
+      "Yoko Honna",
+      "Issey Takahashi",
+      "Takashi Tachibana",
+      "Shigeru Muroi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbb3"
+    },
+    "rank": "48",
+    "title": "Ninja Scroll",
+    "year": "1993",
+    "rating": "Not Rated",
+    "runtime": 94,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshiaki Kawajiri"
+    ],
+    "cast": [
+      "Emi Shinohara",
+      "Takeshi Aono",
+      "Osamu Saka"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbb4"
+    },
+    "rank": "49",
+    "title": "Kiki's Delivery Service",
+    "year": "1989",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Kirsten Dunst",
+      "Minami Takayama",
+      "Rei Sakuma",
+      "Kappei Yamaguchi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6182d1c24a86f96d4625cbb5"
+    },
+    "rank": "50",
+    "title": "Paddington 2",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.8,
+    "directors": [
+      "Paul King"
+    ],
+    "cast": [
+      "Ben Whishaw",
+      "Hugh Grant",
+      "Hugh Bonneville",
+      "Sally Hawkins"
+    ],
+    "gross": 40440000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cc7"
+    },
+    "rank": "1",
+    "title": "Spirited Away",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.6,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino",
+      "Rumi Hiiragi"
+    ],
+    "gross": 10060000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cc8"
+    },
+    "rank": "2",
+    "title": "The Lion King",
+    "year": "1994",
+    "rating": "G",
+    "runtime": 88,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl",
+      "Whoopi Goldberg"
+    ],
+    "gross": 422780000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cc9"
+    },
+    "rank": "3",
+    "title": "Grave of the Fireflies",
+    "year": "1988",
+    "rating": "Not Rated",
+    "runtime": 89,
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi",
+      "Yoshiko Shinohara"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cca"
+    },
+    "rank": "4",
+    "title": "Your Name.",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 106,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "cast": [
+      "Mone Kamishiraishi",
+      "Aoi Y"
+    ],
+    "gross": 5020000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ccb"
+    },
+    "rank": "5",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "gross": 190240000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ccc"
+    },
+    "rank": "6",
+    "title": "Coco",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 105,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael Garc",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "gross": 209730000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ccd"
+    },
+    "rank": "7",
+    "title": "WALL\u00b7E",
+    "year": "2008",
+    "rating": "G",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "gross": 223810000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cce"
+    },
+    "rank": "8",
+    "title": "Princess Mononoke",
+    "year": "1997",
+    "rating": "PG-13",
+    "runtime": 134,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Yuriko Ishida",
+      "Billy Crudup"
+    ],
+    "gross": 2380000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ccf"
+    },
+    "rank": "9",
+    "title": "Demon Slayer: Mugen Train",
+    "year": "2020",
+    "rating": "R",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.3,
+    "directors": [
+      "Haruo Sotozaki"
+    ],
+    "cast": [
+      "Natsuki Hanae",
+      "Akari Kit",
+      "Yoshitsugu Matsuoka",
+      "Hiro Shimono"
+    ],
+    "gross": 47700000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cd0"
+    },
+    "rank": "10",
+    "title": "Toy Story",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.3,
+    "directors": [
+      "John Lasseter"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney"
+    ],
+    "gross": 191800000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cd1"
+    },
+    "rank": "11",
+    "title": "A Silent Voice: The Movie",
+    "year": "2016",
+    "rating": "Not Rated",
+    "runtime": 130,
+    "genre": [
+      "Animation",
+      "Drama"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Naoko Yamada"
+    ],
+    "cast": [
+      "Miyu Irino",
+      "Saori Hayami",
+      "Aoi Y"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cd2"
+    },
+    "rank": "12",
+    "title": "Klaus",
+    "year": "2019",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Sergio Pablos",
+      "Carlos Mart"
+    ],
+    "cast": [
+      "Jason Schwartzman",
+      "Rashida Jones",
+      "Will Sasso"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cd3"
+    },
+    "rank": "13",
+    "title": "Up",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "cast": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "John Ratzenberger",
+      "Christopher Plummer"
+    ],
+    "gross": 293000000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cd4"
+    },
+    "rank": "14",
+    "title": "Toy Story 3",
+    "year": "2010",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Ned Beatty"
+    ],
+    "gross": 415000000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cd5"
+    },
+    "rank": "15",
+    "title": "Howl's Moving Castle",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 119,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Chieko Baish",
+      "Takuya Kimura",
+      "Tatsuya Gash",
+      "Akihiro Miwa"
+    ],
+    "gross": 4710000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cd6"
+    },
+    "rank": "16",
+    "title": "My Neighbor Totoro",
+    "year": "1988",
+    "rating": "G",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Shigesato Itoi"
+    ],
+    "gross": 1110000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cd7"
+    },
+    "rank": "17",
+    "title": "Soul",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Kemp Powers"
+    ],
+    "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cd8"
+    },
+    "rank": "18",
+    "title": "Wolf Children",
+    "year": "2012",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Mamoru Hosoda"
+    ],
+    "cast": [
+      "Aoi Miyazaki",
+      "Takao Osawa",
+      "Haru Kuroki",
+      "Yukito Nishii"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cd9"
+    },
+    "rank": "19",
+    "title": "Inside Out",
+    "year": "2015",
+    "rating": "PG",
+    "runtime": 95,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Ronnie Del",
+      "Carmen\n"
+    ],
+    "cast": [
+      "Amy Poehler",
+      "Bill Hader",
+      "Lewis Black",
+      "Mindy Kaling"
+    ],
+    "gross": 356460000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cda"
+    },
+    "rank": "20",
+    "title": "Song of the Sea",
+    "year": "2014",
+    "rating": "PG",
+    "runtime": 93,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Tomm Moore"
+    ],
+    "cast": [
+      "David Rawle",
+      "Brendan Gleeson",
+      "Lisa Hannigan",
+      "Fionnula Flanagan"
+    ],
+    "gross": 860000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cdb"
+    },
+    "rank": "21",
+    "title": "Mary and Max",
+    "year": "2009",
+    "rating": "Not Rated",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Adam Elliot"
+    ],
+    "cast": [
+      "Toni Collette",
+      "Philip Seymour",
+      "Eric Bana",
+      "Barry Humphries"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cdc"
+    },
+    "rank": "22",
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "rating": "PG",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Christopher Mintz",
+      "Craig Ferguson"
+    ],
+    "gross": 217580000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cdd"
+    },
+    "rank": "23",
+    "title": "Finding Nemo",
+    "year": "2003",
+    "rating": "G",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Albert Brooks",
+      "Ellen De",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "gross": 380840000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cde"
+    },
+    "rank": "24",
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "David Silverman",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Billy Crystal",
+      "John Goodman",
+      "Mary Gibbs",
+      "Steve Buscemi"
+    ],
+    "gross": 289920000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cdf"
+    },
+    "rank": "25",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "year": "1997",
+    "rating": "TV-MA",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hideaki Anno",
+      "Kazuya Tsurumaki"
+    ],
+    "cast": [
+      "Megumi Ogata",
+      "Megumi Hayashibara",
+      "Kotono Mitsuishi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ce0"
+    },
+    "rank": "26",
+    "title": "Nausica\u00e4 of the Valley of the Wind",
+    "year": "1984",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Ky"
+    ],
+    "gross": 500000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ce1"
+    },
+    "rank": "27",
+    "title": "Wolfwalkers",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Tomm Moore",
+      "Ross Stewart"
+    ],
+    "cast": [
+      "Honor Kneafsey",
+      "Eva Whittaker",
+      "Sean Bean",
+      "Simon Mc"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ce2"
+    },
+    "rank": "28",
+    "title": "Zootopia",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 108,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Byron Howard",
+      "Rich Moore",
+      "Jared Bush"
+    ],
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba",
+      "Jenny Slate"
+    ],
+    "gross": 341270000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ce3"
+    },
+    "rank": "29",
+    "title": "The Tale of The Princess Kaguya",
+    "year": "2013",
+    "rating": "PG",
+    "runtime": 137,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Grace Moretz",
+      "James Caan",
+      "Mary Steenburgen",
+      "James Marsden"
+    ],
+    "gross": 1510000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ce4"
+    },
+    "rank": "30",
+    "title": "Persepolis",
+    "year": "2007",
+    "rating": "PG-13",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Biography",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Vincent Paronnaud",
+      "Marjane Satrapi"
+    ],
+    "cast": [
+      "Chiara Mastroianni",
+      "Catherine Deneuve",
+      "Gena Rowlands",
+      "Danielle Darrieux"
+    ],
+    "gross": 4450000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ce5"
+    },
+    "rank": "31",
+    "title": "Ratatouille",
+    "year": "2007",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "cast": [
+      "Brad Garrett",
+      "Lou Romano",
+      "Patton Oswalt",
+      "Ian Holm"
+    ],
+    "gross": 206450000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ce6"
+    },
+    "rank": "32",
+    "title": "The Incredibles",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Craig T",
+      "Samuel L",
+      "Holly Hunter",
+      "Jason Lee"
+    ],
+    "gross": 261440000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ce7"
+    },
+    "rank": "33",
+    "title": "Perfect Blue",
+    "year": "1997",
+    "rating": "R",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Crime",
+      "Mystery"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Junko Iwao",
+      "Rica Matsumoto",
+      "Shinpachi Tsuji"
+    ],
+    "gross": 780000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ce8"
+    },
+    "rank": "34",
+    "title": "The Iron Giant",
+    "year": "1999",
+    "rating": "PG",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Eli Marienthal",
+      "Harry Connick",
+      "Jennifer Aniston",
+      "Vin Diesel"
+    ],
+    "gross": 23160000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ce9"
+    },
+    "rank": "35",
+    "title": "Ghost in the Shell",
+    "year": "1995",
+    "rating": "TV-MA",
+    "runtime": 83,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Mamoru Oshii"
+    ],
+    "cast": [
+      "Atsuko Tanaka",
+      "Iemasa Kayumi"
+    ],
+    "gross": 520000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cea"
+    },
+    "rank": "36",
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "rating": "PG",
+    "runtime": 76,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Henry Selick"
+    ],
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O",
+      "William Hickey"
+    ],
+    "gross": 75080000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ceb"
+    },
+    "rank": "37",
+    "title": "Aladdin",
+    "year": "1992",
+    "rating": "G",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman"
+    ],
+    "gross": 217350000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cec"
+    },
+    "rank": "38",
+    "title": "Beauty and the Beast",
+    "year": "1991",
+    "rating": "G",
+    "runtime": 84,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "cast": [
+      "Paige O",
+      "Robby Benson",
+      "Jesse Corti",
+      "Rex Everhart"
+    ],
+    "gross": 218970000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277ced"
+    },
+    "rank": "39",
+    "title": "Akira",
+    "year": "1988",
+    "rating": "R",
+    "runtime": 124,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Katsuhiro "
+    ],
+    "cast": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama"
+    ],
+    "gross": 550000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cee"
+    },
+    "rank": "40",
+    "title": "Castle in the Sky",
+    "year": "1986",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Mayumi Tanaka",
+      "Keiko Yokozawa",
+      "Kotoe Hatsui",
+      "Minori Terada"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cef"
+    },
+    "rank": "41",
+    "title": "Isle of Dogs",
+    "year": "2018",
+    "rating": "PG-13",
+    "runtime": 101,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Koyu Rankin",
+      "Edward Norton",
+      "Bob Balaban"
+    ],
+    "gross": 32020000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cf0"
+    },
+    "rank": "42",
+    "title": "Fantastic Mr. Fox",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Bill Murray",
+      "Jason Schwartzman"
+    ],
+    "gross": 21000000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cf1"
+    },
+    "rank": "43",
+    "title": "Millennium Actress",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Miyoko Sh",
+      "Mami Koyama",
+      "Fumiko Orikasa"
+    ],
+    "gross": 190000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cf2"
+    },
+    "rank": "44",
+    "title": "Cowboy Bebop: The Movie",
+    "year": "2001",
+    "rating": "TV-14",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Tensai Okamura",
+      "Hiroyuki Okiura",
+      "Yoshiyuki Takei"
+    ],
+    "cast": [
+      "Beau Billingslea",
+      "Melissa Fahn",
+      "Nicholas Guest"
+    ],
+    "gross": 1000000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cf3"
+    },
+    "rank": "45",
+    "title": "Shrek",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "gross": 267670000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cf4"
+    },
+    "rank": "46",
+    "title": "Toy Story 2",
+    "year": "1999",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "John Lasseter",
+      "Ash Brannon",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer"
+    ],
+    "gross": 245850000
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cf5"
+    },
+    "rank": "47",
+    "title": "Whisper of the Heart",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshifumi Kond"
+    ],
+    "cast": [
+      "Yoko Honna",
+      "Issey Takahashi",
+      "Takashi Tachibana",
+      "Shigeru Muroi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cf6"
+    },
+    "rank": "48",
+    "title": "Ninja Scroll",
+    "year": "1993",
+    "rating": "Not Rated",
+    "runtime": 94,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshiaki Kawajiri"
+    ],
+    "cast": [
+      "Emi Shinohara",
+      "Takeshi Aono",
+      "Osamu Saka"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cf7"
+    },
+    "rank": "49",
+    "title": "Kiki's Delivery Service",
+    "year": "1989",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Kirsten Dunst",
+      "Minami Takayama",
+      "Rei Sakuma",
+      "Kappei Yamaguchi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407a2e8b3e2e74f277cf8"
+    },
+    "rank": "50",
+    "title": "Paddington 2",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.8,
+    "directors": [
+      "Paul King"
+    ],
+    "cast": [
+      "Ben Whishaw",
+      "Hugh Grant",
+      "Hugh Bonneville",
+      "Sally Hawkins"
+    ],
+    "gross": 40440000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f36"
+    },
+    "rank": "1",
+    "title": "Spirited Away",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.6,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino",
+      "Rumi Hiiragi"
+    ],
+    "gross": 10060000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f37"
+    },
+    "rank": "2",
+    "title": "The Lion King",
+    "year": "1994",
+    "rating": "G",
+    "runtime": 88,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl",
+      "Whoopi Goldberg"
+    ],
+    "gross": 422780000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f38"
+    },
+    "rank": "3",
+    "title": "Grave of the Fireflies",
+    "year": "1988",
+    "rating": "Not Rated",
+    "runtime": 89,
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi",
+      "Yoshiko Shinohara"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f39"
+    },
+    "rank": "4",
+    "title": "Your Name.",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 106,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "cast": [
+      "Mone Kamishiraishi",
+      "Aoi Y"
+    ],
+    "gross": 5020000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f3a"
+    },
+    "rank": "5",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "gross": 190240000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f3b"
+    },
+    "rank": "6",
+    "title": "Coco",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 105,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael Garc",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "gross": 209730000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f3c"
+    },
+    "rank": "7",
+    "title": "WALL\u00b7E",
+    "year": "2008",
+    "rating": "G",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "gross": 223810000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f3d"
+    },
+    "rank": "8",
+    "title": "Princess Mononoke",
+    "year": "1997",
+    "rating": "PG-13",
+    "runtime": 134,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Yuriko Ishida",
+      "Billy Crudup"
+    ],
+    "gross": 2380000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f3e"
+    },
+    "rank": "9",
+    "title": "Demon Slayer: Mugen Train",
+    "year": "2020",
+    "rating": "R",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.3,
+    "directors": [
+      "Haruo Sotozaki"
+    ],
+    "cast": [
+      "Natsuki Hanae",
+      "Akari Kit",
+      "Yoshitsugu Matsuoka",
+      "Hiro Shimono"
+    ],
+    "gross": 47700000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f3f"
+    },
+    "rank": "10",
+    "title": "Toy Story",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.3,
+    "directors": [
+      "John Lasseter"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney"
+    ],
+    "gross": 191800000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f40"
+    },
+    "rank": "11",
+    "title": "A Silent Voice: The Movie",
+    "year": "2016",
+    "rating": "Not Rated",
+    "runtime": 130,
+    "genre": [
+      "Animation",
+      "Drama"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Naoko Yamada"
+    ],
+    "cast": [
+      "Miyu Irino",
+      "Saori Hayami",
+      "Aoi Y"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f41"
+    },
+    "rank": "12",
+    "title": "Klaus",
+    "year": "2019",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Sergio Pablos",
+      "Carlos Mart"
+    ],
+    "cast": [
+      "Jason Schwartzman",
+      "Rashida Jones",
+      "Will Sasso"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f42"
+    },
+    "rank": "13",
+    "title": "Up",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "cast": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "John Ratzenberger",
+      "Christopher Plummer"
+    ],
+    "gross": 293000000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f43"
+    },
+    "rank": "14",
+    "title": "Toy Story 3",
+    "year": "2010",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Ned Beatty"
+    ],
+    "gross": 415000000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f44"
+    },
+    "rank": "15",
+    "title": "Howl's Moving Castle",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 119,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Chieko Baish",
+      "Takuya Kimura",
+      "Tatsuya Gash",
+      "Akihiro Miwa"
+    ],
+    "gross": 4710000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f45"
+    },
+    "rank": "16",
+    "title": "My Neighbor Totoro",
+    "year": "1988",
+    "rating": "G",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Shigesato Itoi"
+    ],
+    "gross": 1110000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f46"
+    },
+    "rank": "17",
+    "title": "Soul",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Kemp Powers"
+    ],
+    "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f47"
+    },
+    "rank": "18",
+    "title": "Wolf Children",
+    "year": "2012",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Mamoru Hosoda"
+    ],
+    "cast": [
+      "Aoi Miyazaki",
+      "Takao Osawa",
+      "Haru Kuroki",
+      "Yukito Nishii"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f48"
+    },
+    "rank": "19",
+    "title": "Inside Out",
+    "year": "2015",
+    "rating": "PG",
+    "runtime": 95,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Ronnie Del",
+      "Carmen\n"
+    ],
+    "cast": [
+      "Amy Poehler",
+      "Bill Hader",
+      "Lewis Black",
+      "Mindy Kaling"
+    ],
+    "gross": 356460000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f49"
+    },
+    "rank": "20",
+    "title": "Song of the Sea",
+    "year": "2014",
+    "rating": "PG",
+    "runtime": 93,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Tomm Moore"
+    ],
+    "cast": [
+      "David Rawle",
+      "Brendan Gleeson",
+      "Lisa Hannigan",
+      "Fionnula Flanagan"
+    ],
+    "gross": 860000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f4a"
+    },
+    "rank": "21",
+    "title": "Mary and Max",
+    "year": "2009",
+    "rating": "Not Rated",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Adam Elliot"
+    ],
+    "cast": [
+      "Toni Collette",
+      "Philip Seymour",
+      "Eric Bana",
+      "Barry Humphries"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f4b"
+    },
+    "rank": "22",
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "rating": "PG",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Christopher Mintz",
+      "Craig Ferguson"
+    ],
+    "gross": 217580000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f4c"
+    },
+    "rank": "23",
+    "title": "Finding Nemo",
+    "year": "2003",
+    "rating": "G",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Albert Brooks",
+      "Ellen De",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "gross": 380840000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f4d"
+    },
+    "rank": "24",
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "David Silverman",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Billy Crystal",
+      "John Goodman",
+      "Mary Gibbs",
+      "Steve Buscemi"
+    ],
+    "gross": 289920000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f4e"
+    },
+    "rank": "25",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "year": "1997",
+    "rating": "TV-MA",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hideaki Anno",
+      "Kazuya Tsurumaki"
+    ],
+    "cast": [
+      "Megumi Ogata",
+      "Megumi Hayashibara",
+      "Kotono Mitsuishi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f4f"
+    },
+    "rank": "26",
+    "title": "Nausica\u00e4 of the Valley of the Wind",
+    "year": "1984",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Ky"
+    ],
+    "gross": 500000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f50"
+    },
+    "rank": "27",
+    "title": "Wolfwalkers",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Tomm Moore",
+      "Ross Stewart"
+    ],
+    "cast": [
+      "Honor Kneafsey",
+      "Eva Whittaker",
+      "Sean Bean",
+      "Simon Mc"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f51"
+    },
+    "rank": "28",
+    "title": "Zootopia",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 108,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Byron Howard",
+      "Rich Moore",
+      "Jared Bush"
+    ],
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba",
+      "Jenny Slate"
+    ],
+    "gross": 341270000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f52"
+    },
+    "rank": "29",
+    "title": "The Tale of The Princess Kaguya",
+    "year": "2013",
+    "rating": "PG",
+    "runtime": 137,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Grace Moretz",
+      "James Caan",
+      "Mary Steenburgen",
+      "James Marsden"
+    ],
+    "gross": 1510000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f53"
+    },
+    "rank": "30",
+    "title": "Persepolis",
+    "year": "2007",
+    "rating": "PG-13",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Biography",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Vincent Paronnaud",
+      "Marjane Satrapi"
+    ],
+    "cast": [
+      "Chiara Mastroianni",
+      "Catherine Deneuve",
+      "Gena Rowlands",
+      "Danielle Darrieux"
+    ],
+    "gross": 4450000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f54"
+    },
+    "rank": "31",
+    "title": "Ratatouille",
+    "year": "2007",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "cast": [
+      "Brad Garrett",
+      "Lou Romano",
+      "Patton Oswalt",
+      "Ian Holm"
+    ],
+    "gross": 206450000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f55"
+    },
+    "rank": "32",
+    "title": "The Incredibles",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Craig T",
+      "Samuel L",
+      "Holly Hunter",
+      "Jason Lee"
+    ],
+    "gross": 261440000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f56"
+    },
+    "rank": "33",
+    "title": "Perfect Blue",
+    "year": "1997",
+    "rating": "R",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Crime",
+      "Mystery"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Junko Iwao",
+      "Rica Matsumoto",
+      "Shinpachi Tsuji"
+    ],
+    "gross": 780000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f57"
+    },
+    "rank": "34",
+    "title": "The Iron Giant",
+    "year": "1999",
+    "rating": "PG",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Eli Marienthal",
+      "Harry Connick",
+      "Jennifer Aniston",
+      "Vin Diesel"
+    ],
+    "gross": 23160000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f58"
+    },
+    "rank": "35",
+    "title": "Ghost in the Shell",
+    "year": "1995",
+    "rating": "TV-MA",
+    "runtime": 83,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Mamoru Oshii"
+    ],
+    "cast": [
+      "Atsuko Tanaka",
+      "Iemasa Kayumi"
+    ],
+    "gross": 520000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f59"
+    },
+    "rank": "36",
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "rating": "PG",
+    "runtime": 76,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Henry Selick"
+    ],
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O",
+      "William Hickey"
+    ],
+    "gross": 75080000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f5a"
+    },
+    "rank": "37",
+    "title": "Aladdin",
+    "year": "1992",
+    "rating": "G",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman"
+    ],
+    "gross": 217350000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f5b"
+    },
+    "rank": "38",
+    "title": "Beauty and the Beast",
+    "year": "1991",
+    "rating": "G",
+    "runtime": 84,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "cast": [
+      "Paige O",
+      "Robby Benson",
+      "Jesse Corti",
+      "Rex Everhart"
+    ],
+    "gross": 218970000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f5c"
+    },
+    "rank": "39",
+    "title": "Akira",
+    "year": "1988",
+    "rating": "R",
+    "runtime": 124,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Katsuhiro "
+    ],
+    "cast": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama"
+    ],
+    "gross": 550000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f5d"
+    },
+    "rank": "40",
+    "title": "Castle in the Sky",
+    "year": "1986",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Mayumi Tanaka",
+      "Keiko Yokozawa",
+      "Kotoe Hatsui",
+      "Minori Terada"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f5e"
+    },
+    "rank": "41",
+    "title": "Isle of Dogs",
+    "year": "2018",
+    "rating": "PG-13",
+    "runtime": 101,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Koyu Rankin",
+      "Edward Norton",
+      "Bob Balaban"
+    ],
+    "gross": 32020000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f5f"
+    },
+    "rank": "42",
+    "title": "Fantastic Mr. Fox",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Bill Murray",
+      "Jason Schwartzman"
+    ],
+    "gross": 21000000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f60"
+    },
+    "rank": "43",
+    "title": "Millennium Actress",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Miyoko Sh",
+      "Mami Koyama",
+      "Fumiko Orikasa"
+    ],
+    "gross": 190000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f61"
+    },
+    "rank": "44",
+    "title": "Cowboy Bebop: The Movie",
+    "year": "2001",
+    "rating": "TV-14",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Tensai Okamura",
+      "Hiroyuki Okiura",
+      "Yoshiyuki Takei"
+    ],
+    "cast": [
+      "Beau Billingslea",
+      "Melissa Fahn",
+      "Nicholas Guest"
+    ],
+    "gross": 1000000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f62"
+    },
+    "rank": "45",
+    "title": "Shrek",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "gross": 267670000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f63"
+    },
+    "rank": "46",
+    "title": "Toy Story 2",
+    "year": "1999",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "John Lasseter",
+      "Ash Brannon",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer"
+    ],
+    "gross": 245850000
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f64"
+    },
+    "rank": "47",
+    "title": "Whisper of the Heart",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshifumi Kond"
+    ],
+    "cast": [
+      "Yoko Honna",
+      "Issey Takahashi",
+      "Takashi Tachibana",
+      "Shigeru Muroi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f65"
+    },
+    "rank": "48",
+    "title": "Ninja Scroll",
+    "year": "1993",
+    "rating": "Not Rated",
+    "runtime": 94,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshiaki Kawajiri"
+    ],
+    "cast": [
+      "Emi Shinohara",
+      "Takeshi Aono",
+      "Osamu Saka"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f66"
+    },
+    "rank": "49",
+    "title": "Kiki's Delivery Service",
+    "year": "1989",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Kirsten Dunst",
+      "Minami Takayama",
+      "Rei Sakuma",
+      "Kappei Yamaguchi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "618407df00eb3012ffcf1f67"
+    },
+    "rank": "50",
+    "title": "Paddington 2",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.8,
+    "directors": [
+      "Paul King"
+    ],
+    "cast": [
+      "Ben Whishaw",
+      "Hugh Grant",
+      "Hugh Bonneville",
+      "Sally Hawkins"
+    ],
+    "gross": 40440000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847035e"
+    },
+    "rank": "1",
+    "title": "Spirited Away",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.6,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino",
+      "Rumi Hiiragi"
+    ],
+    "gross": 10060000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847035f"
+    },
+    "rank": "2",
+    "title": "The Lion King",
+    "year": "1994",
+    "rating": "G",
+    "runtime": 88,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl",
+      "Whoopi Goldberg"
+    ],
+    "gross": 422780000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470360"
+    },
+    "rank": "3",
+    "title": "Grave of the Fireflies",
+    "year": "1988",
+    "rating": "Not Rated",
+    "runtime": 89,
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi",
+      "Yoshiko Shinohara"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470361"
+    },
+    "rank": "4",
+    "title": "Your Name.",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 106,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "cast": [
+      "Mone Kamishiraishi",
+      "Aoi Y"
+    ],
+    "gross": 5020000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470362"
+    },
+    "rank": "5",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "gross": 190240000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470363"
+    },
+    "rank": "6",
+    "title": "Coco",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 105,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael Garc",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "gross": 209730000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470364"
+    },
+    "rank": "7",
+    "title": "WALL\u00b7E",
+    "year": "2008",
+    "rating": "G",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "gross": 223810000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470365"
+    },
+    "rank": "8",
+    "title": "Princess Mononoke",
+    "year": "1997",
+    "rating": "PG-13",
+    "runtime": 134,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Yuriko Ishida",
+      "Billy Crudup"
+    ],
+    "gross": 2380000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470366"
+    },
+    "rank": "9",
+    "title": "Demon Slayer: Mugen Train",
+    "year": "2020",
+    "rating": "R",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.3,
+    "directors": [
+      "Haruo Sotozaki"
+    ],
+    "cast": [
+      "Natsuki Hanae",
+      "Akari Kit",
+      "Yoshitsugu Matsuoka",
+      "Hiro Shimono"
+    ],
+    "gross": 47700000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470367"
+    },
+    "rank": "10",
+    "title": "Toy Story",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.3,
+    "directors": [
+      "John Lasseter"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney"
+    ],
+    "gross": 191800000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470368"
+    },
+    "rank": "11",
+    "title": "A Silent Voice: The Movie",
+    "year": "2016",
+    "rating": "Not Rated",
+    "runtime": 130,
+    "genre": [
+      "Animation",
+      "Drama"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Naoko Yamada"
+    ],
+    "cast": [
+      "Miyu Irino",
+      "Saori Hayami",
+      "Aoi Y"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470369"
+    },
+    "rank": "12",
+    "title": "Klaus",
+    "year": "2019",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Sergio Pablos",
+      "Carlos Mart"
+    ],
+    "cast": [
+      "Jason Schwartzman",
+      "Rashida Jones",
+      "Will Sasso"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847036a"
+    },
+    "rank": "13",
+    "title": "Up",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "cast": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "John Ratzenberger",
+      "Christopher Plummer"
+    ],
+    "gross": 293000000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847036b"
+    },
+    "rank": "14",
+    "title": "Toy Story 3",
+    "year": "2010",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Ned Beatty"
+    ],
+    "gross": 415000000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847036c"
+    },
+    "rank": "15",
+    "title": "Howl's Moving Castle",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 119,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Chieko Baish",
+      "Takuya Kimura",
+      "Tatsuya Gash",
+      "Akihiro Miwa"
+    ],
+    "gross": 4710000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847036d"
+    },
+    "rank": "16",
+    "title": "My Neighbor Totoro",
+    "year": "1988",
+    "rating": "G",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Shigesato Itoi"
+    ],
+    "gross": 1110000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847036e"
+    },
+    "rank": "17",
+    "title": "Soul",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Kemp Powers"
+    ],
+    "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847036f"
+    },
+    "rank": "18",
+    "title": "Wolf Children",
+    "year": "2012",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Mamoru Hosoda"
+    ],
+    "cast": [
+      "Aoi Miyazaki",
+      "Takao Osawa",
+      "Haru Kuroki",
+      "Yukito Nishii"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470370"
+    },
+    "rank": "19",
+    "title": "Inside Out",
+    "year": "2015",
+    "rating": "PG",
+    "runtime": 95,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Ronnie Del",
+      "Carmen\n"
+    ],
+    "cast": [
+      "Amy Poehler",
+      "Bill Hader",
+      "Lewis Black",
+      "Mindy Kaling"
+    ],
+    "gross": 356460000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470371"
+    },
+    "rank": "20",
+    "title": "Song of the Sea",
+    "year": "2014",
+    "rating": "PG",
+    "runtime": 93,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Tomm Moore"
+    ],
+    "cast": [
+      "David Rawle",
+      "Brendan Gleeson",
+      "Lisa Hannigan",
+      "Fionnula Flanagan"
+    ],
+    "gross": 860000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470372"
+    },
+    "rank": "21",
+    "title": "Mary and Max",
+    "year": "2009",
+    "rating": "Not Rated",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Adam Elliot"
+    ],
+    "cast": [
+      "Toni Collette",
+      "Philip Seymour",
+      "Eric Bana",
+      "Barry Humphries"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470373"
+    },
+    "rank": "22",
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "rating": "PG",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Christopher Mintz",
+      "Craig Ferguson"
+    ],
+    "gross": 217580000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470374"
+    },
+    "rank": "23",
+    "title": "Finding Nemo",
+    "year": "2003",
+    "rating": "G",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Albert Brooks",
+      "Ellen De",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "gross": 380840000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470375"
+    },
+    "rank": "24",
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "David Silverman",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Billy Crystal",
+      "John Goodman",
+      "Mary Gibbs",
+      "Steve Buscemi"
+    ],
+    "gross": 289920000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470376"
+    },
+    "rank": "25",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "year": "1997",
+    "rating": "TV-MA",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hideaki Anno",
+      "Kazuya Tsurumaki"
+    ],
+    "cast": [
+      "Megumi Ogata",
+      "Megumi Hayashibara",
+      "Kotono Mitsuishi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470377"
+    },
+    "rank": "26",
+    "title": "Nausica\u00e4 of the Valley of the Wind",
+    "year": "1984",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Ky"
+    ],
+    "gross": 500000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470378"
+    },
+    "rank": "27",
+    "title": "Wolfwalkers",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Tomm Moore",
+      "Ross Stewart"
+    ],
+    "cast": [
+      "Honor Kneafsey",
+      "Eva Whittaker",
+      "Sean Bean",
+      "Simon Mc"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470379"
+    },
+    "rank": "28",
+    "title": "Zootopia",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 108,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Byron Howard",
+      "Rich Moore",
+      "Jared Bush"
+    ],
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba",
+      "Jenny Slate"
+    ],
+    "gross": 341270000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847037a"
+    },
+    "rank": "29",
+    "title": "The Tale of The Princess Kaguya",
+    "year": "2013",
+    "rating": "PG",
+    "runtime": 137,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Grace Moretz",
+      "James Caan",
+      "Mary Steenburgen",
+      "James Marsden"
+    ],
+    "gross": 1510000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847037b"
+    },
+    "rank": "30",
+    "title": "Persepolis",
+    "year": "2007",
+    "rating": "PG-13",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Biography",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Vincent Paronnaud",
+      "Marjane Satrapi"
+    ],
+    "cast": [
+      "Chiara Mastroianni",
+      "Catherine Deneuve",
+      "Gena Rowlands",
+      "Danielle Darrieux"
+    ],
+    "gross": 4450000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847037c"
+    },
+    "rank": "31",
+    "title": "Ratatouille",
+    "year": "2007",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "cast": [
+      "Brad Garrett",
+      "Lou Romano",
+      "Patton Oswalt",
+      "Ian Holm"
+    ],
+    "gross": 206450000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847037d"
+    },
+    "rank": "32",
+    "title": "The Incredibles",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Craig T",
+      "Samuel L",
+      "Holly Hunter",
+      "Jason Lee"
+    ],
+    "gross": 261440000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847037e"
+    },
+    "rank": "33",
+    "title": "Perfect Blue",
+    "year": "1997",
+    "rating": "R",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Crime",
+      "Mystery"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Junko Iwao",
+      "Rica Matsumoto",
+      "Shinpachi Tsuji"
+    ],
+    "gross": 780000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847037f"
+    },
+    "rank": "34",
+    "title": "The Iron Giant",
+    "year": "1999",
+    "rating": "PG",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Eli Marienthal",
+      "Harry Connick",
+      "Jennifer Aniston",
+      "Vin Diesel"
+    ],
+    "gross": 23160000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470380"
+    },
+    "rank": "35",
+    "title": "Ghost in the Shell",
+    "year": "1995",
+    "rating": "TV-MA",
+    "runtime": 83,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Mamoru Oshii"
+    ],
+    "cast": [
+      "Atsuko Tanaka",
+      "Iemasa Kayumi"
+    ],
+    "gross": 520000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470381"
+    },
+    "rank": "36",
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "rating": "PG",
+    "runtime": 76,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Henry Selick"
+    ],
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O",
+      "William Hickey"
+    ],
+    "gross": 75080000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470382"
+    },
+    "rank": "37",
+    "title": "Aladdin",
+    "year": "1992",
+    "rating": "G",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman"
+    ],
+    "gross": 217350000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470383"
+    },
+    "rank": "38",
+    "title": "Beauty and the Beast",
+    "year": "1991",
+    "rating": "G",
+    "runtime": 84,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "cast": [
+      "Paige O",
+      "Robby Benson",
+      "Jesse Corti",
+      "Rex Everhart"
+    ],
+    "gross": 218970000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470384"
+    },
+    "rank": "39",
+    "title": "Akira",
+    "year": "1988",
+    "rating": "R",
+    "runtime": 124,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Katsuhiro "
+    ],
+    "cast": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama"
+    ],
+    "gross": 550000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470385"
+    },
+    "rank": "40",
+    "title": "Castle in the Sky",
+    "year": "1986",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Mayumi Tanaka",
+      "Keiko Yokozawa",
+      "Kotoe Hatsui",
+      "Minori Terada"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470386"
+    },
+    "rank": "41",
+    "title": "Isle of Dogs",
+    "year": "2018",
+    "rating": "PG-13",
+    "runtime": 101,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Koyu Rankin",
+      "Edward Norton",
+      "Bob Balaban"
+    ],
+    "gross": 32020000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470387"
+    },
+    "rank": "42",
+    "title": "Fantastic Mr. Fox",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Bill Murray",
+      "Jason Schwartzman"
+    ],
+    "gross": 21000000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470388"
+    },
+    "rank": "43",
+    "title": "Millennium Actress",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Miyoko Sh",
+      "Mami Koyama",
+      "Fumiko Orikasa"
+    ],
+    "gross": 190000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb8470389"
+    },
+    "rank": "44",
+    "title": "Cowboy Bebop: The Movie",
+    "year": "2001",
+    "rating": "TV-14",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Tensai Okamura",
+      "Hiroyuki Okiura",
+      "Yoshiyuki Takei"
+    ],
+    "cast": [
+      "Beau Billingslea",
+      "Melissa Fahn",
+      "Nicholas Guest"
+    ],
+    "gross": 1000000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847038a"
+    },
+    "rank": "45",
+    "title": "Shrek",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "gross": 267670000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847038b"
+    },
+    "rank": "46",
+    "title": "Toy Story 2",
+    "year": "1999",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "John Lasseter",
+      "Ash Brannon",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer"
+    ],
+    "gross": 245850000
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847038c"
+    },
+    "rank": "47",
+    "title": "Whisper of the Heart",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshifumi Kond"
+    ],
+    "cast": [
+      "Yoko Honna",
+      "Issey Takahashi",
+      "Takashi Tachibana",
+      "Shigeru Muroi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847038d"
+    },
+    "rank": "48",
+    "title": "Ninja Scroll",
+    "year": "1993",
+    "rating": "Not Rated",
+    "runtime": 94,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshiaki Kawajiri"
+    ],
+    "cast": [
+      "Emi Shinohara",
+      "Takeshi Aono",
+      "Osamu Saka"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847038e"
+    },
+    "rank": "49",
+    "title": "Kiki's Delivery Service",
+    "year": "1989",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Kirsten Dunst",
+      "Minami Takayama",
+      "Rei Sakuma",
+      "Kappei Yamaguchi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "6184088fd1a267ffb847038f"
+    },
+    "rank": "50",
+    "title": "Paddington 2",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.8,
+    "directors": [
+      "Paul King"
+    ],
+    "cast": [
+      "Ben Whishaw",
+      "Hugh Grant",
+      "Hugh Bonneville",
+      "Sally Hawkins"
+    ],
+    "gross": 40440000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc83d"
+    },
+    "rank": "1",
+    "title": "Spirited Away",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.6,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino",
+      "Rumi Hiiragi"
+    ],
+    "gross": 10060000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc83e"
+    },
+    "rank": "2",
+    "title": "The Lion King",
+    "year": "1994",
+    "rating": "G",
+    "runtime": 88,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Roger Allers",
+      "Rob Minkoff"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl",
+      "Whoopi Goldberg"
+    ],
+    "gross": 422780000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc83f"
+    },
+    "rank": "3",
+    "title": "Grave of the Fireflies",
+    "year": "1988",
+    "rating": "Not Rated",
+    "runtime": 89,
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "score": 8.5,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Akemi Yamaguchi",
+      "Yoshiko Shinohara"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc840"
+    },
+    "rank": "4",
+    "title": "Your Name.",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 106,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Makoto Shinkai"
+    ],
+    "cast": [
+      "Mone Kamishiraishi",
+      "Aoi Y"
+    ],
+    "gross": 5020000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc841"
+    },
+    "rank": "5",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "gross": 190240000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc842"
+    },
+    "rank": "6",
+    "title": "Coco",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 105,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael Garc",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "gross": 209730000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc843"
+    },
+    "rank": "7",
+    "title": "WALL\u00b7E",
+    "year": "2008",
+    "rating": "G",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Andrew Stanton"
+    ],
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "gross": 223810000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc844"
+    },
+    "rank": "8",
+    "title": "Princess Mononoke",
+    "year": "1997",
+    "rating": "PG-13",
+    "runtime": 134,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.4,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Yuriko Ishida",
+      "Billy Crudup"
+    ],
+    "gross": 2380000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc845"
+    },
+    "rank": "9",
+    "title": "Demon Slayer: Mugen Train",
+    "year": "2020",
+    "rating": "R",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.3,
+    "directors": [
+      "Haruo Sotozaki"
+    ],
+    "cast": [
+      "Natsuki Hanae",
+      "Akari Kit",
+      "Yoshitsugu Matsuoka",
+      "Hiro Shimono"
+    ],
+    "gross": 47700000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc846"
+    },
+    "rank": "10",
+    "title": "Toy Story",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.3,
+    "directors": [
+      "John Lasseter"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney"
+    ],
+    "gross": 191800000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc847"
+    },
+    "rank": "11",
+    "title": "A Silent Voice: The Movie",
+    "year": "2016",
+    "rating": "Not Rated",
+    "runtime": 130,
+    "genre": [
+      "Animation",
+      "Drama"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Naoko Yamada"
+    ],
+    "cast": [
+      "Miyu Irino",
+      "Saori Hayami",
+      "Aoi Y"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc848"
+    },
+    "rank": "12",
+    "title": "Klaus",
+    "year": "2019",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Sergio Pablos",
+      "Carlos Mart"
+    ],
+    "cast": [
+      "Jason Schwartzman",
+      "Rashida Jones",
+      "Will Sasso"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc849"
+    },
+    "rank": "13",
+    "title": "Up",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Pete Docter",
+      "Bob Peterson"
+    ],
+    "cast": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "John Ratzenberger",
+      "Christopher Plummer"
+    ],
+    "gross": 293000000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc84a"
+    },
+    "rank": "14",
+    "title": "Toy Story 3",
+    "year": "2010",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Ned Beatty"
+    ],
+    "gross": 415000000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc84b"
+    },
+    "rank": "15",
+    "title": "Howl's Moving Castle",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 119,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Chieko Baish",
+      "Takuya Kimura",
+      "Tatsuya Gash",
+      "Akihiro Miwa"
+    ],
+    "gross": 4710000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc84c"
+    },
+    "rank": "16",
+    "title": "My Neighbor Totoro",
+    "year": "1988",
+    "rating": "G",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.2,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto",
+      "Shigesato Itoi"
+    ],
+    "gross": 1110000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc84d"
+    },
+    "rank": "17",
+    "title": "Soul",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Kemp Powers"
+    ],
+    "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc84e"
+    },
+    "rank": "18",
+    "title": "Wolf Children",
+    "year": "2012",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Mamoru Hosoda"
+    ],
+    "cast": [
+      "Aoi Miyazaki",
+      "Takao Osawa",
+      "Haru Kuroki",
+      "Yukito Nishii"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc84f"
+    },
+    "rank": "19",
+    "title": "Inside Out",
+    "year": "2015",
+    "rating": "PG",
+    "runtime": 95,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "Ronnie Del",
+      "Carmen\n"
+    ],
+    "cast": [
+      "Amy Poehler",
+      "Bill Hader",
+      "Lewis Black",
+      "Mindy Kaling"
+    ],
+    "gross": 356460000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc850"
+    },
+    "rank": "20",
+    "title": "Song of the Sea",
+    "year": "2014",
+    "rating": "PG",
+    "runtime": 93,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Tomm Moore"
+    ],
+    "cast": [
+      "David Rawle",
+      "Brendan Gleeson",
+      "Lisa Hannigan",
+      "Fionnula Flanagan"
+    ],
+    "gross": 860000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc851"
+    },
+    "rank": "21",
+    "title": "Mary and Max",
+    "year": "2009",
+    "rating": "Not Rated",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Adam Elliot"
+    ],
+    "cast": [
+      "Toni Collette",
+      "Philip Seymour",
+      "Eric Bana",
+      "Barry Humphries"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc852"
+    },
+    "rank": "22",
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "rating": "PG",
+    "runtime": 98,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+    ],
+    "cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Christopher Mintz",
+      "Craig Ferguson"
+    ],
+    "gross": 217580000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc853"
+    },
+    "rank": "23",
+    "title": "Finding Nemo",
+    "year": "2003",
+    "rating": "G",
+    "runtime": 100,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Andrew Stanton",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Albert Brooks",
+      "Ellen De",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "gross": 380840000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc854"
+    },
+    "rank": "24",
+    "title": "Monsters, Inc.",
+    "year": "2001",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Pete Docter",
+      "David Silverman",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Billy Crystal",
+      "John Goodman",
+      "Mary Gibbs",
+      "Steve Buscemi"
+    ],
+    "gross": 289920000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc855"
+    },
+    "rank": "25",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "year": "1997",
+    "rating": "TV-MA",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hideaki Anno",
+      "Kazuya Tsurumaki"
+    ],
+    "cast": [
+      "Megumi Ogata",
+      "Megumi Hayashibara",
+      "Kotono Mitsuishi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc856"
+    },
+    "rank": "26",
+    "title": "Nausica\u00e4 of the Valley of the Wind",
+    "year": "1984",
+    "rating": "PG",
+    "runtime": 117,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "score": 8.1,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Ky"
+    ],
+    "gross": 500000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc857"
+    },
+    "rank": "27",
+    "title": "Wolfwalkers",
+    "year": "2020",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Tomm Moore",
+      "Ross Stewart"
+    ],
+    "cast": [
+      "Honor Kneafsey",
+      "Eva Whittaker",
+      "Sean Bean",
+      "Simon Mc"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc858"
+    },
+    "rank": "28",
+    "title": "Zootopia",
+    "year": "2016",
+    "rating": "PG",
+    "runtime": 108,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Byron Howard",
+      "Rich Moore",
+      "Jared Bush"
+    ],
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba",
+      "Jenny Slate"
+    ],
+    "gross": 341270000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc859"
+    },
+    "rank": "29",
+    "title": "The Tale of The Princess Kaguya",
+    "year": "2013",
+    "rating": "PG",
+    "runtime": 137,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Isao Takahata"
+    ],
+    "cast": [
+      "Grace Moretz",
+      "James Caan",
+      "Mary Steenburgen",
+      "James Marsden"
+    ],
+    "gross": 1510000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc85a"
+    },
+    "rank": "30",
+    "title": "Persepolis",
+    "year": "2007",
+    "rating": "PG-13",
+    "runtime": 96,
+    "genre": [
+      "Animation",
+      "Biography",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Vincent Paronnaud",
+      "Marjane Satrapi"
+    ],
+    "cast": [
+      "Chiara Mastroianni",
+      "Catherine Deneuve",
+      "Gena Rowlands",
+      "Danielle Darrieux"
+    ],
+    "gross": 4450000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc85b"
+    },
+    "rank": "31",
+    "title": "Ratatouille",
+    "year": "2007",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
+    "cast": [
+      "Brad Garrett",
+      "Lou Romano",
+      "Patton Oswalt",
+      "Ian Holm"
+    ],
+    "gross": 206450000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc85c"
+    },
+    "rank": "32",
+    "title": "The Incredibles",
+    "year": "2004",
+    "rating": "PG",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Craig T",
+      "Samuel L",
+      "Holly Hunter",
+      "Jason Lee"
+    ],
+    "gross": 261440000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc85d"
+    },
+    "rank": "33",
+    "title": "Perfect Blue",
+    "year": "1997",
+    "rating": "R",
+    "runtime": 81,
+    "genre": [
+      "Animation",
+      "Crime",
+      "Mystery"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Junko Iwao",
+      "Rica Matsumoto",
+      "Shinpachi Tsuji"
+    ],
+    "gross": 780000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc85e"
+    },
+    "rank": "34",
+    "title": "The Iron Giant",
+    "year": "1999",
+    "rating": "PG",
+    "runtime": 86,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Eli Marienthal",
+      "Harry Connick",
+      "Jennifer Aniston",
+      "Vin Diesel"
+    ],
+    "gross": 23160000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc85f"
+    },
+    "rank": "35",
+    "title": "Ghost in the Shell",
+    "year": "1995",
+    "rating": "TV-MA",
+    "runtime": 83,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Mamoru Oshii"
+    ],
+    "cast": [
+      "Atsuko Tanaka",
+      "Iemasa Kayumi"
+    ],
+    "gross": 520000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc860"
+    },
+    "rank": "36",
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "rating": "PG",
+    "runtime": 76,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Henry Selick"
+    ],
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O",
+      "William Hickey"
+    ],
+    "gross": 75080000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc861"
+    },
+    "rank": "37",
+    "title": "Aladdin",
+    "year": "1992",
+    "rating": "G",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Ron Clements",
+      "John Musker"
+    ],
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman"
+    ],
+    "gross": 217350000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc862"
+    },
+    "rank": "38",
+    "title": "Beauty and the Beast",
+    "year": "1991",
+    "rating": "G",
+    "runtime": 84,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ],
+    "cast": [
+      "Paige O",
+      "Robby Benson",
+      "Jesse Corti",
+      "Rex Everhart"
+    ],
+    "gross": 218970000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc863"
+    },
+    "rank": "39",
+    "title": "Akira",
+    "year": "1988",
+    "rating": "R",
+    "runtime": 124,
+    "genre": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Katsuhiro "
+    ],
+    "cast": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama"
+    ],
+    "gross": 550000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc864"
+    },
+    "rank": "40",
+    "title": "Castle in the Sky",
+    "year": "1986",
+    "rating": "PG",
+    "runtime": 125,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 8.0,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Mayumi Tanaka",
+      "Keiko Yokozawa",
+      "Kotoe Hatsui",
+      "Minori Terada"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc865"
+    },
+    "rank": "41",
+    "title": "Isle of Dogs",
+    "year": "2018",
+    "rating": "PG-13",
+    "runtime": 101,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Koyu Rankin",
+      "Edward Norton",
+      "Bob Balaban"
+    ],
+    "gross": 32020000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc866"
+    },
+    "rank": "42",
+    "title": "Fantastic Mr. Fox",
+    "year": "2009",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Wes Anderson"
+    ],
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Bill Murray",
+      "Jason Schwartzman"
+    ],
+    "gross": 21000000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc867"
+    },
+    "rank": "43",
+    "title": "Millennium Actress",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 87,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Satoshi Kon"
+    ],
+    "cast": [
+      "Miyoko Sh",
+      "Mami Koyama",
+      "Fumiko Orikasa"
+    ],
+    "gross": 190000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc868"
+    },
+    "rank": "44",
+    "title": "Cowboy Bebop: The Movie",
+    "year": "2001",
+    "rating": "TV-14",
+    "runtime": 115,
+    "genre": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Tensai Okamura",
+      "Hiroyuki Okiura",
+      "Yoshiyuki Takei"
+    ],
+    "cast": [
+      "Beau Billingslea",
+      "Melissa Fahn",
+      "Nicholas Guest"
+    ],
+    "gross": 1000000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc869"
+    },
+    "rank": "45",
+    "title": "Shrek",
+    "year": "2001",
+    "rating": "PG",
+    "runtime": 90,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "gross": 267670000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc86a"
+    },
+    "rank": "46",
+    "title": "Toy Story 2",
+    "year": "1999",
+    "rating": "G",
+    "runtime": 92,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.9,
+    "directors": [
+      "John Lasseter",
+      "Ash Brannon",
+      "Lee Unkrich"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer"
+    ],
+    "gross": 245850000
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc86b"
+    },
+    "rank": "47",
+    "title": "Whisper of the Heart",
+    "year": "1995",
+    "rating": "G",
+    "runtime": 111,
+    "genre": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshifumi Kond"
+    ],
+    "cast": [
+      "Yoko Honna",
+      "Issey Takahashi",
+      "Takashi Tachibana",
+      "Shigeru Muroi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc86c"
+    },
+    "rank": "48",
+    "title": "Ninja Scroll",
+    "year": "1993",
+    "rating": "Not Rated",
+    "runtime": 94,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Yoshiaki Kawajiri"
+    ],
+    "cast": [
+      "Emi Shinohara",
+      "Takeshi Aono",
+      "Osamu Saka"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc86d"
+    },
+    "rank": "49",
+    "title": "Kiki's Delivery Service",
+    "year": "1989",
+    "rating": "G",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "score": 7.9,
+    "directors": [
+      "Hayao Miyazaki"
+    ],
+    "cast": [
+      "Kirsten Dunst",
+      "Minami Takayama",
+      "Rei Sakuma",
+      "Kappei Yamaguchi"
+    ],
+    "gross": NaN
+  },
+  {
+    "_id": {
+      "$oid": "61840b28ec1214e8fa2dc86e"
+    },
+    "rank": "50",
+    "title": "Paddington 2",
+    "year": "2017",
+    "rating": "PG",
+    "runtime": 103,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "score": 7.8,
+    "directors": [
+      "Paul King"
+    ],
+    "cast": [
+      "Ben Whishaw",
+      "Hugh Grant",
+      "Hugh Bonneville",
+      "Sally Hawkins"
+    ],
+    "gross": 40440000
+  }
+]
